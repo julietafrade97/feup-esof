@@ -57,7 +57,9 @@
 
 **The major milestone:** Product Release.
 
+<p align="center">
 <img src="https://github.com/literallysofia/feup-esof/blob/master/T2/Media/Picture2.png" width="350">
+</p>
 
 ## Characteristics
 ### Iterative and Incremental
